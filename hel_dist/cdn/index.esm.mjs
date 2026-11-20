@@ -1,18 +1,1 @@
-import { exposeLib } from 'hel-lib-proxy';
-
-/*
-|--------------------------------------------------------------------------
-|
-| 对应 package.json/appGroupName
-|
-|--------------------------------------------------------------------------
-*/
-
-const LIB_NAME = 'comps-react';
-
-var lib = exposeLib(LIB_NAME);
-var HelloRemoteReactComp = lib.HelloRemoteReactComp;
-var HelloButton = lib.HelloButton;
-var comps = lib;
-
-export { HelloButton, HelloRemoteReactComp, comps, lib as default, lib };
+import{exposeLib as e}from"hel-lib-proxy";const t="comps-react";var o=e(t),l=o.HelloRemoteReactComp,a=o.HelloButton,m=o;export{a as HelloButton,l as HelloRemoteReactComp,m as comps,o as default,o as lib};
