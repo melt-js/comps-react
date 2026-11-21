@@ -21,11 +21,11 @@
         "/comps-react/hel_dist/static/css/55.5a0c26a9.chunk.css"
       ],
       "chunkJsSrcList": [
-        "/comps-react/hel_dist/static/js/runtime.7217269b.js",
-        "/comps-react/hel_dist/static/js/vendor.0ec8e6d1.js",
-        "/comps-react/hel_dist/static/js/main.03bfbb30.js",
-        "/comps-react/hel_dist/static/js/385.1b36bb32.chunk.js",
-        "/comps-react/hel_dist/static/js/55.cb5cdf29.chunk.js"
+        "/comps-react/hel_dist/static/js/runtime.14c80f97.js",
+        "/comps-react/hel_dist/static/js/vendor.b3949253.js",
+        "/comps-react/hel_dist/static/js/main.b5b470fa.js",
+        "/comps-react/hel_dist/static/js/385.5e72ef0a.chunk.js",
+        "/comps-react/hel_dist/static/js/55.81a97ec2.chunk.js"
       ],
       "staticCssSrcList": [],
       "staticJsSrcList": [
@@ -53,7 +53,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-react/hel_dist/static/js/runtime.7217269b.js",
+            "src": "/comps-react/hel_dist/static/js/runtime.14c80f97.js",
             "defer": "defer"
           }
         },
@@ -61,7 +61,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-react/hel_dist/static/js/vendor.0ec8e6d1.js",
+            "src": "/comps-react/hel_dist/static/js/vendor.b3949253.js",
             "defer": "defer"
           }
         },
@@ -69,7 +69,7 @@
           "tag": "script",
           "append": true,
           "attrs": {
-            "src": "/comps-react/hel_dist/static/js/main.03bfbb30.js",
+            "src": "/comps-react/hel_dist/static/js/main.b5b470fa.js",
             "defer": "defer"
           }
         }
@@ -80,10 +80,10 @@
         "/comps-react/hel_dist/index.html",
         "/comps-react/hel_dist/manifest.json",
         "/comps-react/hel_dist/robots.txt",
-        "/comps-react/hel_dist/static/js/vendor.0ec8e6d1.js.gz",
+        "/comps-react/hel_dist/static/js/vendor.b3949253.js.gz",
         "/comps-react/hel_dist/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg"
       ]
     },
-    "html_content": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><meta name=\"description\" content=\"Create Remote React Comp With hel-micro\"/><title>Remote React Comp</title><script src=\"https://unpkg.com/react@18.3.1/umd/react.production.min.js\"></script><script src=\"https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js\"></script><script defer=\"defer\" src=\"/comps-react/hel_dist/static/js/runtime.7217269b.js\"></script><script defer=\"defer\" src=\"/comps-react/hel_dist/static/js/vendor.0ec8e6d1.js\"></script><script defer=\"defer\" src=\"/comps-react/hel_dist/static/js/main.03bfbb30.js\"></script></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div></body></html>"
+    "html_content": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"/><meta name=\"theme-color\" content=\"#000000\"/><meta name=\"description\" content=\"Create Remote React Comp With hel-micro\"/><title>Remote React Comp</title><script src=\"https://unpkg.com/react@18.3.1/umd/react.production.min.js\"></script><script src=\"https://unpkg.com/react-dom@18.3.1/umd/react-dom.production.min.js\"></script><script defer=\"defer\" src=\"/comps-react/hel_dist/static/js/runtime.14c80f97.js\"></script><script defer=\"defer\" src=\"/comps-react/hel_dist/static/js/vendor.b3949253.js\"></script><script defer=\"defer\" src=\"/comps-react/hel_dist/static/js/main.b5b470fa.js\"></script></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div></body></html>"
   }
 }
